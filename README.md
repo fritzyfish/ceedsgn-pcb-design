@@ -16,6 +16,8 @@
 
 
 **PCB Implementation**
+(Take note that the grey lines acts as a "jumper" for the connections in order to make the PCB a one-sided implementation)
+
 
 ![PCB IMPLEMENTATION](https://github.com/fritzyfish/ceedsgn-pcb-design/blob/main/PCB%20IMPLENTATION.png)
 
