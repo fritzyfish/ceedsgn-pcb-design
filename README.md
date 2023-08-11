@@ -12,7 +12,7 @@
 
 ## Results
 **Schematic Implementation**
-![SCHEMATIC IMPLEMENTATION](./SCHEMATIC IMPLEMENTATION.png)
+![SCHEMATIC IMPLEMENTATION](https://github.com/fritzyfish/ceedsgn-pcb-design/blob/main/SCHEMATIC%20IMPLEMENTATION.png)
 
 
 **PCB Implementation**
