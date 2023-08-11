@@ -1,4 +1,5 @@
 # Final Project PCB Design
+
 - AGULTO, Juliana Marie
 - AVELINO, Joris Gabriel
 - DURIMAN, Fritz Edward
@@ -11,14 +12,11 @@
 3. To view the PCB implementation, choose "FinalProject.kicad_pcb"
 
 ## Results
-**Schematic Implementation**
-![SCHEMATIC IMPLEMENTATION](https://github.com/fritzyfish/ceedsgn-pcb-design/blob/main/SCHEMATIC%20IMPLEMENTATION.png)
 
+**Schematic Implementation**
+<br/><p align="center"><img src="SCHEMATIC IMPLEMENTATION.png" width="800"></p><br/>
 
 **PCB Implementation**
+
 (Take note that the grey lines acts as a "jumper" for the connections in order to make the PCB a one-sided implementation)
-
-
-![PCB IMPLEMENTATION](https://github.com/fritzyfish/ceedsgn-pcb-design/blob/main/PCB%20IMPLENTATION.png)
-
-
+<br/><p align="center"><img src="PCB IMPLEMENTATION.png" width="600"></p><br/>
