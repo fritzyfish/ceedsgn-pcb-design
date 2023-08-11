@@ -12,5 +12,8 @@
 
 ## Results
 **Schematic Implementation**
+![SCHEMATIC IMPLEMENTATION](./SCHEMATIC IMPLEMENTATION.png)
+
+
 **PCB Implementation**
 
