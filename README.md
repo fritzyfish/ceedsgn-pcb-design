@@ -18,5 +18,5 @@
 
 **PCB Implementation**
 
-(Take note that the grey lines acts as a "jumper" for the connections in order to make the PCB a one-sided implementation)
+
 <br/><p align="center"><img src="PCB IMPLEMENTATION.png" width="600"></p><br/>
