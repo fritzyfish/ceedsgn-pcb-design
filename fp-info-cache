@@ -1,4 +1,4 @@
-21874299367100710
+21860765484596551
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59814,62 +59814,6 @@ solder jumper open
 0
 5
 3
-JumperWires
-Jumper-Wire_8mm_Blue
-jumper wire 8mm blue
-jumper wire
-0
-2
-2
-JumperWires
-Jumper-Wire_8mm_Red
-jumper wire 8mm red
-jumper wire
-0
-2
-2
-JumperWires
-Jumper-Wire_12mm_Blue
-jumper wire 12mm blue
-jumper wire
-0
-2
-2
-JumperWires
-Jumper-Wire_12mm_Red
-jumper wire 12mm red
-jumper wire
-0
-2
-2
-JumperWires
-Jumper-Wire_20mm_Blue
-jumper wire 20mm blue
-jumper wire 20mm
-0
-2
-2
-JumperWires
-Jumper-Wire_25mm_Blue
-jumper wire 25mm blue
-jumper wire 25mm
-0
-2
-2
-JumperWires
-Jumper-Wire_30mm_Blue
-jumper wire 30mm blue
-jumper wire
-0
-2
-2
-JumperWires
-Jumper-Wire_50mm_Blue
-jumper wire 50mm blue
-
-0
-2
-2
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
